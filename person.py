@@ -1,12 +1,10 @@
-class Person:
+from classtools import AttrDisplay
+
+class Person(AttrDisplay):
     def __init__(self, name, job=None, pay=0):
         self.name = name
         self.job = job
         self.pay = pay
-
-
-    def __repr__(self):
-        return '[Person: %s, %s, %s]' % (self.name, self.job, self.pay)
 
 
     def lastName(self):
