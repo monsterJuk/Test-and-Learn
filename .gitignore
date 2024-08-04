@@ -1,0 +1,9 @@
+/Scripts
+/Lib
+/Include
+/env
+__pycache__
+.idea
+/mexc-api-sdk
+pyvenv.cfg
+config.py
