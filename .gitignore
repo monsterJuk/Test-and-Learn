@@ -1,9 +1,6 @@
-/Scripts
-/Lib
-/Include
-/env
+/store_venv
+/mexc_sdk
 __pycache__
 .idea
-/mexc-api-sdk
 pyvenv.cfg
 config.py
