@@ -1,5 +1,9 @@
+/Lib
+/Scripts
+/env
+/mexc-api-postman
+/mexc-api-sdk
 /store_venv
-/mexc_sdk
 __pycache__
 .idea
 pyvenv.cfg
